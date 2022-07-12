@@ -1,7 +1,7 @@
-## [🔙 Visitors](https://github.com/Ajeet-Gupta/Visitors)
+## [🔙 Visitors](https://github.com/ajeetgupta80/Visitors)
 
-### :octocat: [ajeetserver](https://github.com/Ajeet-Gupta/ajeetserver)
-![Image of Visitors](https://github.com/Ajeet-Gupta/Visitors/blob/master/graph/508338816/large/year.png)
+### :octocat: [ajeetserver](https://github.com/ajeetgupta80/ajeetserver)
+![Image of Visitors](https://github.com/ajeetgupta80/Visitors/blob/master/graph/508338816/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/7/12 12:42 PM UTC</i></small>
+<small><i>Last updated on 2022/7/12 6:24 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of Visitors](https://github.com/Ajeet-Gupta/Visitors/blob/master/svg/508338816/badge.svg)](https://github.com/Ajeet-Gupta/Visitors/blob/master/readme/508338816/week.md)
+[![Image of Visitors](https://github.com/ajeetgupta80/Visitors/blob/master/svg/508338816/badge.svg)](https://github.com/ajeetgupta80/Visitors/blob/master/readme/508338816/week.md)
 ```readme
-[![Image of Visitors](https://github.com/Ajeet-Gupta/Visitors/blob/master/svg/508338816/badge.svg)](https://github.com/Ajeet-Gupta/Visitors/blob/master/readme/508338816/week.md)
+[![Image of Visitors](https://github.com/ajeetgupta80/Visitors/blob/master/svg/508338816/badge.svg)](https://github.com/ajeetgupta80/Visitors/blob/master/readme/508338816/week.md)
 ```
 ### Header
-# ajeetserver [<img alt="Image of Visitors" src="https://github.com/Ajeet-Gupta/Visitors/blob/master/graph/508338816/small/year.png" height="20">](https://github.com/Ajeet-Gupta/Visitors/blob/master/readme/508338816/year.md)
+# ajeetserver [<img alt="Image of Visitors" src="https://github.com/ajeetgupta80/Visitors/blob/master/graph/508338816/small/year.png" height="20">](https://github.com/ajeetgupta80/Visitors/blob/master/readme/508338816/year.md)
 ```readme
-# ajeetserver [<img alt="Image of Visitors" src="https://github.com/Ajeet-Gupta/Visitors/blob/master/graph/508338816/small/year.png" height="20">](https://github.com/Ajeet-Gupta/Visitors/blob/master/readme/508338816/year.md)
+# ajeetserver [<img alt="Image of Visitors" src="https://github.com/ajeetgupta80/Visitors/blob/master/graph/508338816/small/year.png" height="20">](https://github.com/ajeetgupta80/Visitors/blob/master/readme/508338816/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

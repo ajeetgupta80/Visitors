@@ -21,7 +21,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Ajeet-Gupta/Visitors/tree/master/readme/508338816/year.md">
+			<a href="https://github.com/ajeetgupta80/Visitors/tree/master/readme/508338816/year.md">
 				ajeetserver
 			</a>
 		</td>
@@ -32,12 +32,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			4
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Ajeet-Gupta/Visitors/raw/master/graph/508338816/small/year.png" height="20"> 55
+			<img alt="Response time graph" src="https://github.com/ajeetgupta80/Visitors/raw/master/graph/508338816/small/year.png" height="20"> 55
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Ajeet-Gupta/Visitors/tree/master/readme/491635547/year.md">
+			<a href="https://github.com/ajeetgupta80/Visitors/tree/master/readme/491635547/year.md">
 				ecommerce
 			</a>
 		</td>
@@ -48,19 +48,19 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			1
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Ajeet-Gupta/Visitors/raw/master/graph/491635547/small/year.png" height="20"> 5
+			<img alt="Response time graph" src="https://github.com/ajeetgupta80/Visitors/raw/master/graph/491635547/small/year.png" height="20"> 5
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/7/12 12:43 PM UTC</i></small>
+<small><i>Last updated on 2022/7/12 6:25 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
-[![Image of https://github.com/Ajeet-Gupta/Visitors](https://github.com/Ajeet-Gupta/Visitors/blob/master/svg/profile/badge.svg)](https://github.com/Ajeet-Gupta/Visitors)
+[![Image of https://github.com/ajeetgupta80/Visitors](https://github.com/ajeetgupta80/Visitors/blob/master/svg/profile/badge.svg)](https://github.com/ajeetgupta80/Visitors)
 
 ```readme
-[![Image of https://github.com/Ajeet-Gupta/Visitors](https://github.com/Ajeet-Gupta/Visitors/blob/master/svg/profile/badge.svg)](https://github.com/Ajeet-Gupta/Visitors)
+[![Image of https://github.com/ajeetgupta80/Visitors](https://github.com/ajeetgupta80/Visitors/blob/master/svg/profile/badge.svg)](https://github.com/ajeetgupta80/Visitors)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

@@ -1,7 +1,7 @@
-## [🔙 Visitors](https://github.com/Ajeet-Gupta/Visitors)
+## [🔙 Visitors](https://github.com/ajeetgupta80/Visitors)
 
-### :octocat: [ecommerce](https://github.com/Ajeet-Gupta/ecommerce)
-![Image of Visitors](https://github.com/Ajeet-Gupta/Visitors/blob/master/graph/491635547/large/year.png)
+### :octocat: [ecommerce](https://github.com/ajeetgupta80/ecommerce)
+![Image of Visitors](https://github.com/ajeetgupta80/Visitors/blob/master/graph/491635547/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/7/12 12:42 PM UTC</i></small>
+<small><i>Last updated on 2022/7/12 6:25 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of Visitors](https://github.com/Ajeet-Gupta/Visitors/blob/master/svg/491635547/badge.svg)](https://github.com/Ajeet-Gupta/Visitors/blob/master/readme/491635547/week.md)
+[![Image of Visitors](https://github.com/ajeetgupta80/Visitors/blob/master/svg/491635547/badge.svg)](https://github.com/ajeetgupta80/Visitors/blob/master/readme/491635547/week.md)
 ```readme
-[![Image of Visitors](https://github.com/Ajeet-Gupta/Visitors/blob/master/svg/491635547/badge.svg)](https://github.com/Ajeet-Gupta/Visitors/blob/master/readme/491635547/week.md)
+[![Image of Visitors](https://github.com/ajeetgupta80/Visitors/blob/master/svg/491635547/badge.svg)](https://github.com/ajeetgupta80/Visitors/blob/master/readme/491635547/week.md)
 ```
 ### Header
-# ecommerce [<img alt="Image of Visitors" src="https://github.com/Ajeet-Gupta/Visitors/blob/master/graph/491635547/small/year.png" height="20">](https://github.com/Ajeet-Gupta/Visitors/blob/master/readme/491635547/year.md)
+# ecommerce [<img alt="Image of Visitors" src="https://github.com/ajeetgupta80/Visitors/blob/master/graph/491635547/small/year.png" height="20">](https://github.com/ajeetgupta80/Visitors/blob/master/readme/491635547/year.md)
 ```readme
-# ecommerce [<img alt="Image of Visitors" src="https://github.com/Ajeet-Gupta/Visitors/blob/master/graph/491635547/small/year.png" height="20">](https://github.com/Ajeet-Gupta/Visitors/blob/master/readme/491635547/year.md)
+# ecommerce [<img alt="Image of Visitors" src="https://github.com/ajeetgupta80/Visitors/blob/master/graph/491635547/small/year.png" height="20">](https://github.com/ajeetgupta80/Visitors/blob/master/readme/491635547/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
